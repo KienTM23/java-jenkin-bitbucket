@@ -1,0 +1,11 @@
+[09-04-2024 22:24:14.268 INFO com.techpanda.account.Level_20_Fake_Data] - Cannot read the array length because "listOfFiles" is null
+[09-04-2024 22:24:16.273 INFO com.techpanda.account.Level_20_Fake_Data] - OS name = Windows 10
+[09-04-2024 22:24:16.275 INFO com.techpanda.account.Level_20_Fake_Data] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:24:16.807 INFO com.techpanda.account.Level_24_Data_Json] - OS name = Windows 10
+[09-04-2024 22:24:16.809 INFO com.techpanda.account.Level_24_Data_Json] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:24:17.245 INFO com.techpanda.account.Level_19_Pattern_Object] - OS name = Windows 10
+[09-04-2024 22:24:17.246 INFO com.techpanda.account.Level_19_Pattern_Object] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:24:17.531 INFO com.techpanda.account.Level_21_Part_I_Data_Into_Class] - OS name = Windows 10
+[09-04-2024 22:24:17.536 INFO com.techpanda.account.Level_21_Part_I_Data_Into_Class] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:24:20.991 INFO com.sourcelab.Level_20_Sort_Data] - OS name = Windows 10
+[09-04-2024 22:24:20.999 INFO com.sourcelab.Level_20_Sort_Data] - Cannot invoke "Object.toString()" because "this.driver" is null

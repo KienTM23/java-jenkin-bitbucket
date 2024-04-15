@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite parallel="false" name="Tech Panda">
+<!--    <parameter name="userUrl" value="http://live.techpanda.org/index.php/"/>-->
+<!--    <parameter name="adminUrl" value="http://live.techpanda.org/index.php/backendlogin/"/>-->
+<!--    <test name="Run on FIREFOX browser">-->
+<!--        <parameter name="browser" value="firefox"/>-->
+<!--        <classes>-->
+<!--            <class name="com.techpanda.account.Level_04_Multiple_Browser"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <parameter name="server" value="live"></parameter>-->
+    <parameter name="role" value="user"></parameter>
+    <listeners>
+        <listener class-name="commons.MethodListener"/>
+<!--        <listener class-name="reportConfig.ReportNGListener"/>-->
+<!--        <listener class-name="reportConfig.ExtentTestListener"/>-->
+        <listener class-name="reportConfig.AllureTestListener"/>
+<!--        <listener class-name="reportConfig.ExtentReportListenerV2"/>-->
+<!--        <listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+    </listeners>
+    <test name="Run on CHROME browser">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.techpanda.account.Level_24_Data_Json"/>
+        </classes>
+    </test>
+
+<!--    <test name="Run on EDGE browser">-->
+<!--        <parameter name="browser" value="edge"/>-->
+<!--        <classes>-->
+<!--            <class name="com.techpanda.account.Level_04_Multiple_Browser"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

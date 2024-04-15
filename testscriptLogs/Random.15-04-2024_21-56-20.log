@@ -1,0 +1,24 @@
+[15-04-2024 21:56:21.565 INFO com.techpanda.account.Level_24_Data_Json] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 21:56:34.930 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 01: click to My Account link
+[15-04-2024 21:56:37.172 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[15-04-2024 21:56:37.439 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 03: Enter to Password with empty data
+[15-04-2024 21:56:37.834 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 04: Click to Login button
+[15-04-2024 21:56:38.172 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 05: Verify error message is displayed
+[15-04-2024 21:56:38.687 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 01: click to My Account link
+[15-04-2024 21:56:40.367 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 02: Enter to Email Address textbox 
+[15-04-2024 21:56:40.787 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 03: Enter to Password textbox 
+[15-04-2024 21:56:41.060 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 04: click to Login Button
+[15-04-2024 21:56:41.217 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 05: Verify the error message is displayed
+[15-04-2024 21:56:41.345 INFO com.techpanda.account.Level_24_Data_Json] - Login_05 - Step 01: click to My Account link
+[15-04-2024 21:56:46.752 INFO com.techpanda.account.Level_24_Data_Json] - Login_06 - Step 01: click to My Account link
+[15-04-2024 21:56:48.166 INFO com.techpanda.account.Level_24_Data_Json] - Login_06 - Step 02: Enter to Email Address textbox with value kfc@gmail.com445995@gmail.com
+[15-04-2024 21:56:48.868 INFO com.techpanda.account.Level_24_Data_Json] - Login_06 - Step 03: Enter to Email Password with value 123456
+[15-04-2024 21:56:49.385 INFO com.techpanda.account.Level_24_Data_Json] - Login_06 - Step 05: Verify Contact is displayed
+[15-04-2024 21:57:04.735 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 01: click to My Account link
+[15-04-2024 21:57:06.054 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 02: Enter to Email Address textbox 
+[15-04-2024 21:57:06.301 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 03: Enter to Password textbox 
+[15-04-2024 21:57:06.651 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 04: click to Login Button
+[15-04-2024 21:57:06.818 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 05: Verify the error message is displayed
+[15-04-2024 21:57:22.026 INFO com.techpanda.account.Level_24_Data_Json] - Login_04 - Step 01: click to My Account link
+[15-04-2024 21:57:41.416 INFO com.techpanda.account.Level_24_Data_Json] - OS name = Windows 10
+[15-04-2024 21:57:41.417 INFO com.techpanda.account.Level_24_Data_Json] - Driver instance name = chromedriver: chrome on windows (7009027d9a36f22b3e9fd9897ffda1d1)

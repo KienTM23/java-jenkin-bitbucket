@@ -1,0 +1,21 @@
+[28-03-2024 22:43:37.582 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 01: click to My Account link
+[28-03-2024 22:43:39.622 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[28-03-2024 22:43:40.130 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 03: Enter to Password with empty data
+[28-03-2024 22:43:40.448 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 04: Click to Login button
+[28-03-2024 22:43:40.694 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 05: Verify error message is displayed
+[28-03-2024 22:43:41.066 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 01: click to My Account link
+[28-03-2024 22:43:43.238 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 02: Enter to Email Address textbox 
+[28-03-2024 22:43:43.964 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 03: Enter to Password textbox 
+[28-03-2024 22:43:44.266 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 04: click to Login Button
+[28-03-2024 22:43:44.498 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 05: Verify the error message is displayed
+[28-03-2024 22:43:44.637 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 01: click to My Account link
+[28-03-2024 22:43:46.048 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 02: Enter to Email Address textbox 
+[28-03-2024 22:43:46.552 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 03: Enter to Password textbox 
+[28-03-2024 22:43:46.853 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 04: click to Login Button
+[28-03-2024 22:43:48.598 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 05: Verify the error message is displayed
+[28-03-2024 22:43:48.829 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_04 - Step 01: click to My Account link
+[28-03-2024 22:43:51.808 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_05 - Step 01: click to My Account link
+[28-03-2024 22:43:55.896 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 01: click to My Account link
+[28-03-2024 22:43:57.360 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[28-03-2024 22:43:58.059 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 03: Enter to Email Password with value 123456
+[28-03-2024 22:44:00.282 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 05: Verify Contact is displayed

@@ -1,0 +1,177 @@
+[28-03-2024 15:31:44.776 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 01: click to My Account link
+[28-03-2024 15:31:48.850 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[28-03-2024 15:31:48.934 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 03: Enter to Password with empty data
+[28-03-2024 15:31:49.006 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 04: Click to Login button
+[28-03-2024 15:31:49.404 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 05: Verify error message is displayed
+[28-03-2024 15:31:49.485 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:31:49.570 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:31:49.578 INFO com.techpanda.account.Level_15_Log] - Login_02 - Step 01: click to My Account link
+[28-03-2024 15:31:56.566 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:32:04.943 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:32:09.384 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:32:59.772 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:32:59.838 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 21:30:01.263 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 01: click to My Account link
+[28-03-2024 21:30:03.695 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[28-03-2024 21:30:03.847 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 03: Enter to Password with empty data
+[28-03-2024 21:30:04.062 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 04: Click to Login button
+[28-03-2024 21:30:04.739 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 05: Verify error message is displayed
+[28-03-2024 21:30:05.012 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:05.271 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:05.282 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 01: click to My Account link
+[28-03-2024 21:30:07.999 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 02: Enter to Email Address textbox 
+[28-03-2024 21:30:08.249 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 03: Enter to Password textbox 
+[28-03-2024 21:30:08.528 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 04: click to Login Button
+[28-03-2024 21:30:08.967 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 05: Verify the error message is displayed
+[28-03-2024 21:30:09.120 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:09.129 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 01: click to My Account link
+[28-03-2024 21:30:11.217 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 02: Enter to Email Address textbox 
+[28-03-2024 21:30:11.691 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 03: Enter to Password textbox 
+[28-03-2024 21:30:11.934 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 04: click to Login Button
+[28-03-2024 21:30:14.389 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 05: Verify the error message is displayed
+[28-03-2024 21:30:14.511 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:14.516 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_04 - Step 01: click to My Account link
+[28-03-2024 21:30:17.441 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:17.447 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_05 - Step 01: click to My Account link
+[28-03-2024 21:30:23.257 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:23.264 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 01: click to My Account link
+[28-03-2024 21:30:30.226 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:30.395 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 22:43:37.582 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 01: click to My Account link
+[28-03-2024 22:43:39.622 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[28-03-2024 22:43:40.130 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 03: Enter to Password with empty data
+[28-03-2024 22:43:40.448 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 04: Click to Login button
+[28-03-2024 22:43:40.694 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 05: Verify error message is displayed
+[28-03-2024 22:43:41.066 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 01: click to My Account link
+[28-03-2024 22:43:43.238 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 02: Enter to Email Address textbox 
+[28-03-2024 22:43:43.964 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 03: Enter to Password textbox 
+[28-03-2024 22:43:44.266 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 04: click to Login Button
+[28-03-2024 22:43:44.498 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 05: Verify the error message is displayed
+[28-03-2024 22:43:44.637 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 01: click to My Account link
+[28-03-2024 22:43:46.048 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 02: Enter to Email Address textbox 
+[28-03-2024 22:43:46.552 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 03: Enter to Password textbox 
+[28-03-2024 22:43:46.853 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 04: click to Login Button
+[28-03-2024 22:43:48.598 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 05: Verify the error message is displayed
+[28-03-2024 22:43:48.829 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_04 - Step 01: click to My Account link
+[28-03-2024 22:43:51.808 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_05 - Step 01: click to My Account link
+[28-03-2024 22:43:55.896 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 01: click to My Account link
+[28-03-2024 22:43:57.360 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[28-03-2024 22:43:58.059 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 03: Enter to Email Password with value 123456
+[28-03-2024 22:44:00.282 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 05: Verify Contact is displayed
+[29-03-2024 09:11:40.385 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 01: click to My Account link
+[29-03-2024 09:11:42.103 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[29-03-2024 09:11:42.503 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 03: Enter to Password with empty data
+[29-03-2024 09:11:42.785 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 04: Click to Login button
+[29-03-2024 09:11:43.033 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 05: Verify error message is displayed
+[29-03-2024 09:11:43.334 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 01: click to My Account link
+[29-03-2024 09:11:44.958 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 02: Enter to Email Address textbox 
+[29-03-2024 09:11:45.363 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 03: Enter to Password textbox 
+[29-03-2024 09:11:45.630 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 04: click to Login Button
+[29-03-2024 09:11:45.855 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 05: Verify the error message is displayed
+[29-03-2024 09:11:45.980 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 01: click to My Account link
+[29-03-2024 09:11:47.239 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 02: Enter to Email Address textbox 
+[29-03-2024 09:11:47.664 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 03: Enter to Password textbox 
+[29-03-2024 09:11:47.942 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 04: click to Login Button
+[29-03-2024 09:11:49.638 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 05: Verify the error message is displayed
+[29-03-2024 09:11:49.935 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_04 - Step 01: click to My Account link
+[29-03-2024 09:11:53.106 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_05 - Step 01: click to My Account link
+[29-03-2024 09:11:58.233 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_06 - Step 01: click to My Account link
+[29-03-2024 09:11:59.524 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[29-03-2024 09:11:59.836 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_06 - Step 03: Enter to Email Password with value 123456
+[29-03-2024 09:12:01.863 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_06 - Step 05: Verify Contact is displayed
+[01-04-2024 15:10:28.488 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 01: click to My Account link
+[01-04-2024 15:10:30.859 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[01-04-2024 15:10:31.405 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 03: Enter to Email Password with value 123456
+[01-04-2024 15:10:33.700 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 05: Verify Contact is displayed
+[01-04-2024 15:11:23.898 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 01: click to My Account link
+[01-04-2024 15:11:25.851 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[01-04-2024 15:11:26.312 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 03: Enter to Email Password with value 123456
+[01-04-2024 15:11:28.371 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 05: Verify Contact is displayed
+[01-04-2024 15:31:41.590 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 01: click to My Account link
+[01-04-2024 15:31:43.404 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[01-04-2024 15:31:43.960 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 03: Enter to Email Password with value 123456
+[01-04-2024 15:31:46.409 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 05: Verify Contact is displayed
+[08-04-2024 13:49:07.425 INFO com.sourcelab.Level_20_Sort_Data] - OS name = Windows 10
+[08-04-2024 13:49:07.445 INFO com.sourcelab.Level_20_Sort_Data] - Cannot invoke "Object.toString()" because "this.driver" is null
+[08-04-2024 13:50:38.523 INFO com.sourcelab.Level_20_Sort_Data] - OS name = Windows 10
+[08-04-2024 13:50:38.533 INFO com.sourcelab.Level_20_Sort_Data] - Driver instance name = chromedriver: chrome on windows (9edb5e02ee53a10ef50b6ac38be7b471)
+[08-04-2024 14:05:49.080 INFO com.sourcelab.Level_20_Sort_Data] - OS name = Windows 10
+[08-04-2024 14:05:49.086 INFO com.sourcelab.Level_20_Sort_Data] - Driver instance name = chromedriver: chrome on windows (1ac336a420a0efbfae038ff8962733a9)
+[08-04-2024 14:34:38.795 INFO com.sourcelab.Level_20_Sort_Data] - OS name = Windows 10
+[08-04-2024 14:34:38.801 INFO com.sourcelab.Level_20_Sort_Data] - Driver instance name = chromedriver: chrome on windows (a72f41593d41e33923ad830a4eab2b5a)
+[09-04-2024 22:18:03.164 INFO com.techpanda.cookie.Common_Login] - Cannot read the array length because "listOfFiles" is null
+[09-04-2024 22:18:22.650 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 01: click to My Account link
+[09-04-2024 22:18:25.782 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[09-04-2024 22:18:27.444 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 03: Enter to Email Password with value 123456
+[09-04-2024 22:18:30.517 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 05: Verify Contact is displayed
+[09-04-2024 22:24:14.268 INFO com.techpanda.account.Level_20_Fake_Data] - Cannot read the array length because "listOfFiles" is null
+[09-04-2024 22:24:16.273 INFO com.techpanda.account.Level_20_Fake_Data] - OS name = Windows 10
+[09-04-2024 22:24:16.275 INFO com.techpanda.account.Level_20_Fake_Data] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:24:16.807 INFO com.techpanda.account.Level_24_Data_Json] - OS name = Windows 10
+[09-04-2024 22:24:16.809 INFO com.techpanda.account.Level_24_Data_Json] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:24:17.245 INFO com.techpanda.account.Level_19_Pattern_Object] - OS name = Windows 10
+[09-04-2024 22:24:17.246 INFO com.techpanda.account.Level_19_Pattern_Object] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:24:17.531 INFO com.techpanda.account.Level_21_Part_I_Data_Into_Class] - OS name = Windows 10
+[09-04-2024 22:24:17.536 INFO com.techpanda.account.Level_21_Part_I_Data_Into_Class] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:24:20.991 INFO com.sourcelab.Level_20_Sort_Data] - OS name = Windows 10
+[09-04-2024 22:24:20.999 INFO com.sourcelab.Level_20_Sort_Data] - Cannot invoke "Object.toString()" because "this.driver" is null
+[09-04-2024 22:30:06.669 INFO com.sourcelab.Level_20_Sort_Data] - Cannot read the array length because "listOfFiles" is null
+[09-04-2024 22:30:27.779 INFO com.sourcelab.Level_20_Sort_Data] - OS name = Windows 10
+[09-04-2024 22:30:27.780 INFO com.sourcelab.Level_20_Sort_Data] - Driver instance name = chromedriver: chrome on windows (5e9162c6a7b1d95214eac4c2e9939203)
+[14-04-2024 14:48:49.230 INFO com.sourcelab.Level_20_Sort_Data] - Cannot read the array length because "listOfFiles" is null
+[14-04-2024 14:49:08.789 INFO com.sourcelab.Level_20_Sort_Data] - OS name = Windows 10
+[14-04-2024 14:49:08.790 INFO com.sourcelab.Level_20_Sort_Data] - Driver instance name = chromedriver: chrome on windows (463316bc1cbef741ae422197bf700fba)
+[15-04-2024 15:40:44.360 INFO com.techpanda.account.Level_25_Environment_XML] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 15:41:06.945 INFO com.techpanda.account.Level_25_Environment_XML] - OS name = Windows 10
+[15-04-2024 15:41:06.946 INFO com.techpanda.account.Level_25_Environment_XML] - Driver instance name = chromedriver: chrome on windows (065eed6d463022e96d1a7a5de58ccc99)
+[15-04-2024 16:02:24.926 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 16:02:31.817 INFO com.techpanda.account.Level_26_Environment_Owner] - OS name = Windows 10
+[15-04-2024 16:02:31.818 INFO com.techpanda.account.Level_26_Environment_Owner] - Driver instance name = chromedriver: chrome on windows (f891c803325b6e6bf0e543f40969f83b)
+[15-04-2024 16:16:29.406 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 16:16:30.584 INFO com.techpanda.account.Level_26_Environment_Owner] - OS name = Windows 10
+[15-04-2024 16:16:30.585 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot invoke "Object.toString()" because "this.driver" is null
+[15-04-2024 16:19:03.687 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 16:19:12.376 INFO com.techpanda.account.Level_26_Environment_Owner] - OS name = Windows 10
+[15-04-2024 16:19:12.380 INFO com.techpanda.account.Level_26_Environment_Owner] - Driver instance name = chromedriver: chrome on windows (5d31f68b2efa21ffce8b9139ccd4ca21)
+[15-04-2024 16:21:53.543 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 16:22:00.784 INFO com.techpanda.account.Level_26_Environment_Owner] - OS name = Windows 10
+[15-04-2024 16:22:00.786 INFO com.techpanda.account.Level_26_Environment_Owner] - Driver instance name = chromedriver: chrome on windows (1172bddc34d4a5f2c2895e9b554bfb1e)
+[15-04-2024 16:26:11.167 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 16:26:24.037 INFO com.techpanda.account.Level_26_Environment_Owner] - OS name = Windows 10
+[15-04-2024 16:26:24.038 INFO com.techpanda.account.Level_26_Environment_Owner] - Driver instance name = chromedriver: chrome on windows (438364a5b2fa0f46594e82c8b26e37f9)
+[15-04-2024 21:26:54.251 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 21:27:14.208 INFO com.techpanda.account.Level_26_Environment_Owner] - OS name = Windows 10
+[15-04-2024 21:27:14.209 INFO com.techpanda.account.Level_26_Environment_Owner] - Driver instance name = chromedriver: chrome on windows (439858db02b746382519747affe2bf52)
+[15-04-2024 21:28:04.916 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 21:28:05.938 INFO com.techpanda.account.Level_26_Environment_Owner] - OS name = Windows 10
+[15-04-2024 21:28:05.939 INFO com.techpanda.account.Level_26_Environment_Owner] - Cannot invoke "Object.toString()" because "this.driver" is null
+[15-04-2024 21:54:30.357 INFO com.techpanda.account.Level_25_Environment_XML] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 21:54:31.642 INFO com.techpanda.account.Level_25_Environment_XML] - OS name = Windows 10
+[15-04-2024 21:54:31.644 INFO com.techpanda.account.Level_25_Environment_XML] - Cannot invoke "Object.toString()" because "this.driver" is null
+[15-04-2024 21:55:08.128 INFO com.techpanda.account.Level_24_Data_Json] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 21:55:26.307 INFO com.techpanda.account.Level_24_Data_Json] - OS name = Windows 10
+[15-04-2024 21:55:26.308 INFO com.techpanda.account.Level_24_Data_Json] - Driver instance name = chromedriver: chrome on windows (e44714e8c2e04f9215b8d440fb1f9de6)
+[15-04-2024 21:56:21.565 INFO com.techpanda.account.Level_24_Data_Json] - Cannot read the array length because "listOfFiles" is null
+[15-04-2024 21:56:34.930 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 01: click to My Account link
+[15-04-2024 21:56:37.172 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[15-04-2024 21:56:37.439 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 03: Enter to Password with empty data
+[15-04-2024 21:56:37.834 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 04: Click to Login button
+[15-04-2024 21:56:38.172 INFO com.techpanda.account.Level_24_Data_Json] - Login_01 - Step 05: Verify error message is displayed
+[15-04-2024 21:56:38.687 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 01: click to My Account link
+[15-04-2024 21:56:40.367 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 02: Enter to Email Address textbox 
+[15-04-2024 21:56:40.787 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 03: Enter to Password textbox 
+[15-04-2024 21:56:41.060 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 04: click to Login Button
+[15-04-2024 21:56:41.217 INFO com.techpanda.account.Level_24_Data_Json] - Login_02 - Step 05: Verify the error message is displayed
+[15-04-2024 21:56:41.345 INFO com.techpanda.account.Level_24_Data_Json] - Login_05 - Step 01: click to My Account link
+[15-04-2024 21:56:46.752 INFO com.techpanda.account.Level_24_Data_Json] - Login_06 - Step 01: click to My Account link
+[15-04-2024 21:56:48.166 INFO com.techpanda.account.Level_24_Data_Json] - Login_06 - Step 02: Enter to Email Address textbox with value kfc@gmail.com445995@gmail.com
+[15-04-2024 21:56:48.868 INFO com.techpanda.account.Level_24_Data_Json] - Login_06 - Step 03: Enter to Email Password with value 123456
+[15-04-2024 21:56:49.385 INFO com.techpanda.account.Level_24_Data_Json] - Login_06 - Step 05: Verify Contact is displayed
+[15-04-2024 21:57:04.735 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 01: click to My Account link
+[15-04-2024 21:57:06.054 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 02: Enter to Email Address textbox 
+[15-04-2024 21:57:06.301 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 03: Enter to Password textbox 
+[15-04-2024 21:57:06.651 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 04: click to Login Button
+[15-04-2024 21:57:06.818 INFO com.techpanda.account.Level_24_Data_Json] - Login_03 - Step 05: Verify the error message is displayed
+[15-04-2024 21:57:22.026 INFO com.techpanda.account.Level_24_Data_Json] - Login_04 - Step 01: click to My Account link
+[15-04-2024 21:57:41.416 INFO com.techpanda.account.Level_24_Data_Json] - OS name = Windows 10
+[15-04-2024 21:57:41.417 INFO com.techpanda.account.Level_24_Data_Json] - Driver instance name = chromedriver: chrome on windows (7009027d9a36f22b3e9fd9897ffda1d1)

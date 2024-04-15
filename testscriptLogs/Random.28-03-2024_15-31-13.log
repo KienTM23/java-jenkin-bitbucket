@@ -1,0 +1,13 @@
+[28-03-2024 15:31:44.776 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 01: click to My Account link
+[28-03-2024 15:31:48.850 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[28-03-2024 15:31:48.934 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 03: Enter to Password with empty data
+[28-03-2024 15:31:49.006 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 04: Click to Login button
+[28-03-2024 15:31:49.404 INFO com.techpanda.account.Level_15_Log] - Login_01 - Step 05: Verify error message is displayed
+[28-03-2024 15:31:49.485 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:31:49.570 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:31:49.578 INFO com.techpanda.account.Level_15_Log] - Login_02 - Step 01: click to My Account link
+[28-03-2024 15:31:56.566 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:32:04.943 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:32:09.384 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:32:59.772 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------
+[28-03-2024 15:32:59.838 INFO com.techpanda.account.Level_15_Log] - ----------Passed----------

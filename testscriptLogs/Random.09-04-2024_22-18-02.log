@@ -1,0 +1,5 @@
+[09-04-2024 22:18:03.164 INFO com.techpanda.cookie.Common_Login] - Cannot read the array length because "listOfFiles" is null
+[09-04-2024 22:18:22.650 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 01: click to My Account link
+[09-04-2024 22:18:25.782 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[09-04-2024 22:18:27.444 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 03: Enter to Email Password with value 123456
+[09-04-2024 22:18:30.517 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 05: Verify Contact is displayed

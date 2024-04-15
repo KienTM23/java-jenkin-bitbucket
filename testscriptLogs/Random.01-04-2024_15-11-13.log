@@ -1,0 +1,4 @@
+[01-04-2024 15:11:23.898 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 01: click to My Account link
+[01-04-2024 15:11:25.851 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[01-04-2024 15:11:26.312 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 03: Enter to Email Password with value 123456
+[01-04-2024 15:11:28.371 INFO com.techpanda.cookie.Common_Login] - Login_06 - Step 05: Verify Contact is displayed

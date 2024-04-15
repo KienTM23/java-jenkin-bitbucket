@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite parallel="false" name="Tech Panda">
+
+    <listeners>
+        <listener class-name="commons.MethodListener"/>
+    </listeners>
+
+    <parameter name="url" value="https://www.saucedemo.com/inventory.html"/>
+
+    <test name="Run on CHROME browser">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.sourcelab.Level_20_Sort_Data"/>
+        </classes>
+    </test>
+
+</suite>

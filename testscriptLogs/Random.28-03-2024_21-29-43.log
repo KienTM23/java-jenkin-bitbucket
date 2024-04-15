@@ -1,0 +1,26 @@
+[28-03-2024 21:30:01.263 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 01: click to My Account link
+[28-03-2024 21:30:03.695 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[28-03-2024 21:30:03.847 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 03: Enter to Password with empty data
+[28-03-2024 21:30:04.062 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 04: Click to Login button
+[28-03-2024 21:30:04.739 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_01 - Step 05: Verify error message is displayed
+[28-03-2024 21:30:05.012 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:05.271 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:05.282 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 01: click to My Account link
+[28-03-2024 21:30:07.999 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 02: Enter to Email Address textbox 
+[28-03-2024 21:30:08.249 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 03: Enter to Password textbox 
+[28-03-2024 21:30:08.528 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 04: click to Login Button
+[28-03-2024 21:30:08.967 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_02 - Step 05: Verify the error message is displayed
+[28-03-2024 21:30:09.120 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:09.129 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 01: click to My Account link
+[28-03-2024 21:30:11.217 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 02: Enter to Email Address textbox 
+[28-03-2024 21:30:11.691 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 03: Enter to Password textbox 
+[28-03-2024 21:30:11.934 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 04: click to Login Button
+[28-03-2024 21:30:14.389 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_03 - Step 05: Verify the error message is displayed
+[28-03-2024 21:30:14.511 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:14.516 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_04 - Step 01: click to My Account link
+[28-03-2024 21:30:17.441 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:17.447 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_05 - Step 01: click to My Account link
+[28-03-2024 21:30:23.257 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:23.264 INFO com.techpanda.account.Level_15_Log_ReportNG] - Login_06 - Step 01: click to My Account link
+[28-03-2024 21:30:30.226 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------
+[28-03-2024 21:30:30.395 INFO com.techpanda.account.Level_15_Log_ReportNG] - ----------Passed----------

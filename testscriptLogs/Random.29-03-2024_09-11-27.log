@@ -1,0 +1,21 @@
+[29-03-2024 09:11:40.385 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 01: click to My Account link
+[29-03-2024 09:11:42.103 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 02: Enter to Email Address textbox with empty data
+[29-03-2024 09:11:42.503 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 03: Enter to Password with empty data
+[29-03-2024 09:11:42.785 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 04: Click to Login button
+[29-03-2024 09:11:43.033 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_01 - Step 05: Verify error message is displayed
+[29-03-2024 09:11:43.334 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 01: click to My Account link
+[29-03-2024 09:11:44.958 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 02: Enter to Email Address textbox 
+[29-03-2024 09:11:45.363 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 03: Enter to Password textbox 
+[29-03-2024 09:11:45.630 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 04: click to Login Button
+[29-03-2024 09:11:45.855 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_02 - Step 05: Verify the error message is displayed
+[29-03-2024 09:11:45.980 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 01: click to My Account link
+[29-03-2024 09:11:47.239 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 02: Enter to Email Address textbox 
+[29-03-2024 09:11:47.664 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 03: Enter to Password textbox 
+[29-03-2024 09:11:47.942 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 04: click to Login Button
+[29-03-2024 09:11:49.638 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_03 - Step 05: Verify the error message is displayed
+[29-03-2024 09:11:49.935 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_04 - Step 01: click to My Account link
+[29-03-2024 09:11:53.106 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_05 - Step 01: click to My Account link
+[29-03-2024 09:11:58.233 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_06 - Step 01: click to My Account link
+[29-03-2024 09:11:59.524 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_06 - Step 02: Enter to Email Address textbox with value automation@gmail.com
+[29-03-2024 09:11:59.836 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_06 - Step 03: Enter to Email Password with value 123456
+[29-03-2024 09:12:01.863 INFO com.techpanda.account.Level_16_Extent_Report_Version_2] - Login_06 - Step 05: Verify Contact is displayed
